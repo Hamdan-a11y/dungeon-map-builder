@@ -1,0 +1,18 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #0f1015;
+  color: #e0e2ec;
+  font-family: system-ui, -apple-system, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 16px;
+  letter-spacing: 1.5px;
+  color: #f0c040;
+  font-size: 2rem;
+}
