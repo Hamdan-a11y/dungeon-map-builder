@@ -16,3 +16,18 @@ h1 {
   color: #f0c040;
   font-size: 2rem;
 }
+.server-status {
+  margin: 0 0 16px 0;
+  font-size: 0.9rem;
+  color: #9094a6;
+}
+
+.server-status span.online {
+  color: #4ade80;
+  font-weight: bold;
+}
+
+.server-status span.offline {
+  color: #f87171;
+  font-weight: bold;
+}
